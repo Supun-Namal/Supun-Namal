@@ -12,7 +12,7 @@
 <p align="left"> <img width="1280" height="280" src="https://wallpaperaccess.com/full/5927911.gif" alt="supun-namal" /></p>
 
 <br>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 -  🧑‍🎓 I’m an Undergraduate at SLIATE
 - 🌱 I’m currently learning **OOP with Java**

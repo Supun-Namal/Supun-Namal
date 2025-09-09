@@ -9,9 +9,7 @@
   <h2 align="center">
     
 
-
-## Contribution Snake 
-![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
+<p align="left"> <img width="1280" height="280" src="https://wallpaperaccess.com/full/5927911.gif" alt="supun-namal" /></p>
 
 
 <table align="center">
@@ -27,7 +25,7 @@
 </td>
 <td width="100%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img align="center" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
   
   </td>

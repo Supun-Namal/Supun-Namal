@@ -6,7 +6,7 @@
 <h3 align="center">A passionate IT Student from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=supun-namal&label=Profile%20views&color=0e75b6&style=flat" alt="supun-namal" /> </p>
-  <h2 align="center">
+
     
 
 <p align="left"> <img width="1280" height="280" src="https://wallpaperaccess.com/full/5927911.gif" alt="supun-namal" /></p>
